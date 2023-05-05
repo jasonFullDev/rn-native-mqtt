@@ -30,13 +30,12 @@
   "licenseFilename": "LICENSE.md",
   "readmeFilename": "README.md",
   "dependencies": {
-    "buffer": "^5.4.0",
-    "random-id": "^1.0.3",
-    "tiny-emitter": "^2.1.0",
     "base-64": "^0.1.0",
-    "convert-string": "^0.1.0"
+    "buffer": "^5.4.0",
+    "convert-string": "^0.1.0",
+    "random-id": "^1.0.3",
+    "tiny-emitter": "^2.1.0"
   },
-  "peerDependencies": {},
   "devDependencies": {
     "@types/react-native": "^0.60.7",
     "react-native": "^0.63.4",

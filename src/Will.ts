@@ -1,4 +1,4 @@
-import type { QoS } from './QoS';
+import { QoS } from './QoS';
 
 export type Will = {
   topic: string;
